@@ -1,4 +1,4 @@
-# MERN Stack Boilerplate
+# MERN Stack App
 
 ## Installations
 
